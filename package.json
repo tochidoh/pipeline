@@ -1,0 +1,12 @@
+{
+  "name": "pipeline",
+  "version": "1.0.0",
+  "description": "pipeline practice",
+  "main": "index.js",
+  "repository": "https://github.com/tochidoh/pipeline.git",
+  "author": "tochidoh <tochidoh@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
